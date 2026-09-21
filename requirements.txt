@@ -1,5 +1,6 @@
-streamlit==1.44.0
+streamlit>=1.41.0
 pandas>=2.2.0
 plotly>=5.18.0
 pillow>=11.0.0
 finmind>=2.0.0
+anyio>=4.9.0
